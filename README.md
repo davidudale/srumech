@@ -1,1 +1,1 @@
-# srumech
+This repo is for sru system
